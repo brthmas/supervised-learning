@@ -1,2 +1,2 @@
 # supervised-learning
-A learning experience in supervised learning algorithms
+Implementations of various supervised learning algorithms
